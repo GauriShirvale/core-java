@@ -102,13 +102,22 @@ public class logical {
 //	9	int p = 8, q = 12, r = 16;
 //		System.out.println(p > q || !(q > r) && r > p);	
 		
-		int a = 4, b = 9, c = 12;
-		System.out.println(!(a > b || b > c) && c > a);
+//	10	int a = 4, b = 9, c = 12;
+//		System.out.println(!(a > b || b > c) && c > a);
 		
 		
 		
+//		int x= 10;
+//		System.out.println(x=20);
+		
+//		System.out.println(5+2*3);
+
+//		int x = 10;
+//				int y =20;
+//				System.out.println(x<y ? x:y);
 		
 		
+		System.out.println(8>>1);
 		
 		
 		

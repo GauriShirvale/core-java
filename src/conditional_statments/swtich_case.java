@@ -222,7 +222,208 @@ public class swtich_case {
 //			System.out.println("invalid");
 		
 		
-		}
+		
+		
+//	Q8 menu driven
+
+//		        int choice = 3;
+//
+//		        switch (choice) {
+//		            case 1:
+//		                System.out.println(" Login");
+//		                break;
+//
+//		            case 2:
+//		                System.out.println("Register");
+//		                break;
+//
+//		            case 3:
+//		                System.out.println(" Profile");
+//		                break;
+//
+//		            case 4:
+//		                System.out.println(" Logout");
+//		                break;
+//
+//		            default:
+//		                System.out.println("Invalid Choice");
+		        
+		    
+	
+		
+		
+//		Q9 area
+		
+
+
+//        int choice = 1;
+//        double r = 5, length = 10, breadth = 4, side = 6;
+//
+//        switch (choice) {
+//            case 1:
+//                System.out.println("Area of Circle = " + (3.14 * r * r));
+//                break;
+//
+//            case 2:
+//                System.out.println("Area of Rectangle = " + (length * breadth));
+//                break;
+//
+//            case 3:
+//                System.out.println("Area of Square = " + (side * side));
+//                break;
+//
+//            default:
+//                System.out.println("Invalid Choice");
+//        
+//    }		
+		
+//		Q10 print lang
+		
+
+
+//
+//        int code = 1;
+//
+//        switch (code) {
+//            case 1:
+//                System.out.println(  "Java");
+//                break;
+//
+//            case 2:
+//                System.out.println("Python");
+//                break;
+//
+//            case 3:
+//                System.out.println( "C++");
+//                break;
+//
+//            case 4:
+//                System.out.println( "JavaScript");
+//                break;
+//
+//            default:
+//                System.out.println("Invalid Code");
+//        }
+    
+
+//       Q11. signal
+		
+		
+		
+		
+//		        String signal = "Red";
+//
+//		        switch (signal) {
+//		            case "Red", "red":
+//		                System.out.println(signal + " --> Stop");
+//		                break;
+//
+//		            case "Yellow", "yellow":
+//		                System.out.println(signal + " --> Ready");
+//		                break;
+//
+//		            case "Green","green":
+//		                System.out.println(signal + " --> Go");
+//		                break;
+//
+//		            default:
+//		                System.out.println("Invalid Signal");
+//		        }
+//		    
+		
+//		Q12  department
+		
+		
+
+//
+//        int choice = 1;
+//
+//        switch (choice) {
+//            case 1:
+//                System.out.println( "Computer Science");
+//                break;
+//
+//            case 2:
+//                System.out.println( "Mechanical");
+//                break;
+//
+//            case 3:
+//                System.out.println( "Civil");
+//                break;
+//
+//            case 4:
+//                System.out.println( "Electrical");
+//                break;
+//
+//            default:
+//                System.out.println("Invalid Choice");
+//        }
+ 
+
+		
+		
+ //         Q13  season finding
+         
+
+
+
+//        int month = 7;
+//
+//        switch (month) {
+//            case 12,1,2:
+//            
+//                System.out.println("Month " + month + " --> Winter");
+//                break;
+//
+//            case 3,4,5:
+//            
+//                System.out.println("Month " + month + " --> Summer");
+//                break;
+//
+//            case 6,7,8:
+//            
+//                System.out.println("Month " + month + " --> Monsoon");
+//                break;
+//
+//            case 9,10,11:
+//           
+//                System.out.println("Month " + month + " --> Autumn");
+//                break;
+//
+//            default:
+//                System.out.println("Invalid Month");
+//        }
+    
+//      Q14  mobile setting 
+		
+
+
+//        int choice = 4;
+//
+//        switch (choice) {
+//            case 1:
+//                System.out.println( "WiFi");
+//                break;
+//
+//            case 2:
+//                System.out.println( "Bluetooth");
+//                break;
+//
+//            case 3:
+//                System.out.println( "Mobile Data");
+//                break;
+//
+//            case 4:
+//                System.out.println( "Airplane Mode");
+//                break;
+//
+//            default:
+//                System.out.println("Invalid Choice");
+//        }
+   
+
+		Q15  
+		
 		
 	}
 }
